@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class besttimetobuyandsellstock2 {
-    // code 
+    // code new
     public static int maxProfit(int[] prices) {
         int n = prices.length;
         int profit =0;
